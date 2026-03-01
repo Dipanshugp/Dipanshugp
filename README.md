@@ -19,14 +19,9 @@ I love building real-world projects, solving problems, and learning new technolo
 
 As a developer, I focus on creating impactful solutions and continuously improving my skills.
 
-</td>
 
-<td width="40%">
 <img src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="300"/>
-</td>
 
-</tr>
-</table>
 
 ### Talking about Personal Stuff:
 
