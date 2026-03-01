@@ -21,7 +21,6 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
 
----
 
 ### Talking about Personal Stuff:
 
