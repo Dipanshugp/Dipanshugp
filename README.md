@@ -53,7 +53,6 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 ### ⚙️ Frameworks & Libraries
 
 <p>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
 </p>
