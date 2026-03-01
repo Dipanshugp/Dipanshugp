@@ -56,7 +56,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
   
 </p>
 
-### ⚙️ Frameworks & Libraries
+### 🧰 Frameworks & Libraries
 
 <p>
      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
