@@ -1,52 +1,100 @@
-<h1 align="center">Hi 👋, I'm Dipanshu Gupta</h1>
-<h3 align="center">Python Developer | AI Enthusiast 🚀</h3>
+# Welcome to [Dipanshu Gupta's](https://github.com/Dipanshugp) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+<a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+&nbsp;
+<a href="mailto:dipanshugp55@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
 
 ---
 
-🌟 Passionate about building real-world Python projects  
-🤖 Currently learning AI & Machine Learning  
-💻 Focused on problem solving & automation  
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dipanshugp.Dipanshugp)
+
+I am a passionate **Python Developer and AI Enthusiast**.  
+I love building real-world projects, solving problems, and learning new technologies.
+
+As a developer, I focus on creating impactful solutions and continuously improving my skills.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
 
 ---
 
-## 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/your-link">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30" />
-</a>
+### Talking about Personal Stuff:
+
+- 👨‍🎓 I'm a **Student & Aspiring Software Developer**
+- 💻 I’m currently working on **Python Projects**
+- 🤖 Learning **Machine Learning & AI**
+- 📚 Practicing **Data Structures & Algorithms**
+- 💬 Ask me about **Python, GitHub, Projects**
+- 📫 Reach me: **dipanshugp55@gmail.com**
+- 💪 Building projects to become job-ready
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Dipanshugp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+
+---
+
+## 🛠️ My Favourite tools
+
+### 👨‍💻 Programming languages
+
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+</p>
+
+### 🗄️ Databases
+
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+</p>
+
+### 💻 Tools
+
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
 
-## 🛠️ Skills
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
+## 📊 Stats
 
----
-
-## 🚀 Projects
-- 🤖 AI Chatbot using Python  
-- 📊 Machine Learning Models  
-- ⚙️ Automation Scripts  
-
----
-
-## 📊 GitHub Stats
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dipanshugp&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshugp&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
-<p>
+## 🔥 GitHub Streak
+
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Dipanshugp&theme=tokyonight" />
 </p>
+
+---
+
+## 🚀 My Projects
+
+- 🤖 AI Chatbot using Python  
+- 📊 Machine Learning Project  
+- ⚙️ Automation Scripts  
+
+---
+
+## ✨ Fun Fact
+
+⚡ I love building projects and learning new technologies 🚀
