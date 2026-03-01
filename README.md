@@ -59,8 +59,9 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 ### ⚙️ Frameworks & Libraries
 
 <p>
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0.svg?logo=python&logoColor=white">
 </p>
 
 ### 🗄️ Databases
