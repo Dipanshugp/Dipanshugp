@@ -1,12 +1,24 @@
 # Welcome to [Dipanshu Gupta's](https://github.com/Dipanshugp) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-&nbsp;
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
 <a href="mailto:dipanshugp55@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>
 
+<a href="https://www.facebook.com/YOUR_REAL_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+</a>
 
+<a href="https://www.instagram.com/im__dipanshu_gupta" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+</p>
 ---
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dipanshugp.Dipanshugp)
