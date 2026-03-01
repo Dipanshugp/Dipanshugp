@@ -52,9 +52,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-hotpink?logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
