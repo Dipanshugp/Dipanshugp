@@ -31,6 +31,8 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 - 🤖 Learning **Machine Learning & AI**
 - 📚 Practicing **Data Structures & Algorithms**
 - 💬 Ask me about **Python, GitHub, Projects**
+- 🌱 I'm currently learning:
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
 - 📫 Reach me: **dipanshugp55@gmail.com**
 - 💪 Building projects to become job-ready
 
