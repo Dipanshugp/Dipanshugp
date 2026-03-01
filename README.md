@@ -89,12 +89,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 </p>
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dipanshugp&theme=tokyonight" />
-</p>
-<details>
 <summary>😺 My Github stats, 😺 Current Streak and 😺 Most Used Languages</summary>
 
 <br>
