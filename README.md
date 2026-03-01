@@ -1,38 +1,36 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dipanshu Gupta</h1>
-<h3 align="center">Python Developer | AI Enthusiast</h3>
+<h3 align="center">Python Developer | AI Enthusiast 🚀</h3>
 
 ---
 
-🌟 Passionate about building real-world projects using Python  
-💻 Currently learning Machine Learning & AI  
-🚀 Focused on improving problem-solving skills  
+🌟 Passionate about building real-world Python projects  
+🤖 Currently learning AI & Machine Learning  
+💻 Focused on problem solving & automation  
 
 ---
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<a href="https://linkedin.com/in/your-link">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 <a href="mailto:your@email.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+<img src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
 <p>
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
 
-## 📂 Projects
-- 🤖 Chatbot using Python  
-- 📊 Machine Learning Projects  
+## 🚀 Projects
+- 🤖 AI Chatbot using Python  
+- 📊 Machine Learning Models  
 - ⚙️ Automation Scripts  
 
 ---
