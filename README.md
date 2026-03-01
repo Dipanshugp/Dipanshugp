@@ -90,7 +90,6 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 
 
 ---
-<summary>😺 My Github stats, 😺 Current Streak and 😺 Most Used Languages</summary>
 
 <br>
 
