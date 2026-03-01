@@ -44,10 +44,12 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 ### 👨‍💻 Programming languages
 
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
