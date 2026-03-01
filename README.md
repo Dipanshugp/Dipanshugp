@@ -73,8 +73,9 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
+   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
 </p>
 
 ---
