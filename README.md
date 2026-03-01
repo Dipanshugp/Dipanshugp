@@ -1,14 +1,14 @@
-# Welcome to [Dipanshu Gupta's](https://github.com/Dipanshugp) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Dipanshu Gupta](https://github.com/Dipanshugp) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:15px;" />
-</a>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:dipanshugp55@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" style="margin-right:15px;" />
-</a>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 </p>
 ---
