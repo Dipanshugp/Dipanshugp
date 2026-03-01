@@ -3,12 +3,11 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:15px;" />
 </a>
 
-
 <a href="mailto:dipanshugp55@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" style="margin-right:15px;" />
 </a>
 
 </p>
