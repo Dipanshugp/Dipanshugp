@@ -32,7 +32,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 - 📚 Practicing **Data Structures & Algorithms**
 - 💬 Ask me about **Python, GitHub, Projects**
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/7Nl2aDrTT8//)
 - 📫 Reach me: **dipanshugp55@gmail.com**
 - 💪 Building projects to become job-ready
 
